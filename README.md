@@ -12,7 +12,7 @@ Braintree Dropin built with Node on the backend and Apache Cordova (used to crea
 * Open a new terminal (or prompt) window (don't stop NODE SERVER)
 * Navigate to `/cordova-app`
 
-* **Important:** Make sure you have your computer configured for Cordova: [video tutorial](https://www.youtube.com/watch?v=V7u0caTdjBQ)
+* **Important!** Make sure you have your computer configured for Cordova: 20 minute [video tutorial](https://www.youtube.com/watch?v=V7u0caTdjBQ)
 
 * Run `cordova run ios --simulator` to test the app on iOS Simulator
 * Run `cordova run ios --device` to test the app on iOS devices connected via USB
